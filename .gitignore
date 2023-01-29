@@ -6,3 +6,4 @@
 *.dll.config
 *.cache
 *.suo
+.vs/
